@@ -141,6 +141,9 @@ def train_model(model, train_loader, num_epochs=3):
 
 <img width="638" height="722" alt="image" src="https://github.com/user-attachments/assets/ac32c489-19d4-4165-b8c6-c0d3ebf3f13c" />
 
+<img width="766" height="711" alt="image" src="https://github.com/user-attachments/assets/e9c6a517-0a8b-4262-9d17-9214719e9576" />
+
+
 
 ## RESULT
 Thus, a Convolutional Deep Neural Network was successfully implemented using the Fashion-MNIST dataset. The model achieved good classification accuracy and was able to correctly classify new sample images.
